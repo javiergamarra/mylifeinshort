@@ -1,0 +1,5 @@
+<beans>
+	<interceptors>
+		<class>es.luceit.mylifeinshort.transaction.RequiredTransactionInterceptor</class>
+	</interceptors>
+</beans>
